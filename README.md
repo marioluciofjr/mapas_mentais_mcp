@@ -1,5 +1,10 @@
 # MCP-Server de Mapas Mentais
 
+[![Made with Python](https://img.shields.io/badge/Python->=3.10-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
+![license - MIT](https://img.shields.io/badge/license-MIT-green)
+![site - prazocerto.me](https://img.shields.io/badge/site-prazocerto.me-230023)
+![linkedin - @marioluciofjr](https://img.shields.io/badge/linkedin-marioluciofjr-blue)
+
 ## Índice
 
 * [Introdução](#introdução)
