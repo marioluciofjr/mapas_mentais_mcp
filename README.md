@@ -5,6 +5,12 @@
 ![site - prazocerto.me](https://img.shields.io/badge/site-prazocerto.me-230023)
 ![linkedin - @marioluciofjr](https://img.shields.io/badge/linkedin-marioluciofjr-blue)
 
+A dynamic MCP server management service that creates, runs, and manages Model Context Protocol (MCP) servers dynamically. This service itself functions as an MCP server and launches/manages other MCP servers as child processes, enabling a flexible MCP ecosystem.
+
+<a href="https://glama.ai/mcp/servers/@marioluciofjr/mapas_mentais_mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@marioluciofjr/mapas_mentais_mcp/badge" alt="MCP-Server de Mapas Mentais MCP server" />
+</a>
+
 ## Índice
 
 * [Introdução](#introdução)
@@ -189,5 +195,3 @@ Mário Lúcio - Prazo Certo®
   <a href = "mailto:marioluciofjr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://prazocerto.me/contato" target="_blank"><img src="https://img.shields.io/badge/prazocerto.me/contato-230023?style=for-the-badge&logo=wordpress&logoColor=white"></a>
 </div> 
-    
-   
