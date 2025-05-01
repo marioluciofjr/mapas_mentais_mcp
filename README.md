@@ -145,12 +145,10 @@ Agora vou detalhar como foi o meu passo a passo no Windows 11, utilizando o term
     "mapas_mentais": {
       "command": "uv",
       "args": [
+        "--directory",
+        "C://Users//meu_usuario//OneDrive//area_de_trabalho//mapas_mentais",
         "run",
-        "--with",
-        "mcp[cli]",
-        "mcp",
-        "run",
-        "C:\\Users\\meu_usuario\\OneDrive\\area_de_trabalho\\mapas_mentais\\server.py"
+        "server.py"
       ]
     }
     ```
