@@ -160,9 +160,9 @@ Agora vou detalhar como foi o meu passo a passo no Windows 11, utilizando o term
 > 14c. Procure o arquivo `claude_desktop_config.json` e edite no VSCode corretamente\
 > 14d. Salve o arquivo com `CTRL` + `S`\
 > 14e. Feche o Claude Desktop e abra novamente depois de alguns segundos\
-> 14f. Confira no ícone de martelo se as ferramentas do MCP "mapas_mentais" estão instaladas corretamente
+> 14f. Confira no ícone de configuração se as ferramentas do MCP "mapas_mentais" estão instaladas corretamente
 >
-> ![Image](https://github.com/user-attachments/assets/07d3606e-38fd-425d-99c3-a0940cc2fa1d)
+> ![Image](https://github.com/user-attachments/assets/ad6c0c10-568d-4b92-b055-72b3fe29319c)
 >
 > As ferramentas foram nomeadas como `"apresenta", "compara", "inicial", "intermediario", "problemas" e "revisa".
 
