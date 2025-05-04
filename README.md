@@ -162,7 +162,7 @@ Agora vou detalhar como foi o meu passo a passo no Windows 11, utilizando o term
 > 14e. Feche o Claude Desktop e abra novamente depois de alguns segundos\
 > 14f. Confira no ícone de configuração se as ferramentas do MCP "mapas_mentais" estão instaladas corretamente
 >
-> ![Image](https://github.com/user-attachments/assets/ad6c0c10-568d-4b92-b055-72b3fe29319c)
+> ![Image](https://github.com/user-attachments/assets/6553bcd2-1f3c-4963-9d6a-15b0dc614edd)
 >
 > As ferramentas foram nomeadas como `"apresenta", "compara", "inicial", "intermediario", "problemas" e "revisa".
 
