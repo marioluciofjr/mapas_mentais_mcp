@@ -4,6 +4,7 @@
 ![license - MIT](https://img.shields.io/badge/license-MIT-green)
 ![site - prazocerto.me](https://img.shields.io/badge/site-prazocerto.me-230023)
 ![linkedin - @marioluciofjr](https://img.shields.io/badge/linkedin-marioluciofjr-blue)
+[![smithery badge](https://smithery.ai/badge/@marioluciofjr/mapas_mentais_mcp)](https://smithery.ai/server/@marioluciofjr/mapas_mentais_mcp)
 
 A dynamic MCP server management service that creates, runs, and manages Model Context Protocol (MCP) servers dynamically. This service itself functions as an MCP server and launches/manages other MCP servers as child processes, enabling a flexible MCP ecosystem.
 
@@ -62,6 +63,14 @@ Os seis tipos de mapas mentais utilizados neste MCP-Server são:
 * Claude Desktop instalado.
 
 ## Como instalar no Claude Desktop
+
+### Installing via Smithery
+
+To install Mapas Mentais Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@marioluciofjr/mapas_mentais_mcp):
+
+```bash
+npx -y @smithery/cli install @marioluciofjr/mapas_mentais_mcp --client claude
+```
 
 Agora vou detalhar como foi o meu passo a passo no Windows 11, utilizando o terminal (atalho `CTRL` + `SHIFT` + `'`) no VSCode: 
 
