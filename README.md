@@ -51,7 +51,7 @@ Os seis tipos de mapas mentais utilizados neste MCP-Server são:
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/76e7aca0-5321-4238-9742-164c20af5b4a" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/57ffab5c-81a9-4821-8301-67391854789b" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/cf957637-962d-4548-87d4-bbde91fadc22" />&nbsp;&nbsp;&nbsp
-  <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/18c95cc3-d8bc-486c-b0cf-b5d128980176" />&nbsp;&nbsp;&nbsp
+  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/775a6ce6-3474-436b-b6f6-7f1f9192a878" />&nbsp;&nbsp;&nbsp
   <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/abafaea5-eb57-4965-9130-7816280a8d84" />&nbsp;&nbsp;&nbsp; 
 </div>
